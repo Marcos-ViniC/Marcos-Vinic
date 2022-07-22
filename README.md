@@ -1,4 +1,4 @@
-## <center> Olá!! Meu nome é Marcos 👋 <center>
+ ## Olá!! Meu nome é Marcos 👋 
 
 ### Sou estudante da Dio (digital inovation one) 📚
 ### I'm student for Dio (digital inovation one) 🤖
