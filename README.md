@@ -1,7 +1,7 @@
 <h1 align="center"> Olá!! Meu nome é Marcos 👋</h1> 
 
 <h3 align="center"> Sou estudante da Dio (digital inovation one) 📚 </h3>
-<h3 align="center">I'm student for Dio (digital inovation one) 🤖</h3>
+<h3 align="center">I'm student for Dio (digital inovation one) 👩🏻‍💻</h3>
 
 
 <p align="center"img src="https://darkside.blog.br/wp-content/uploads/2020/07/Psicopata-Americano-06-1024x672.jpg" width="400" height="330">
