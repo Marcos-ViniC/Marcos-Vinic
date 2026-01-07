@@ -1,4 +1,4 @@
-<img width="740" height="554" alt="image" src="https://github.com/user-attachments/assets/5ba4728b-9108-484e-ae9c-148c6f699607" /><h1 align="center"> Olá!! Meu nome é Marcos 👋</h1> 
+<h1 align="center"> Olá!! Meu nome é Marcos 👋</h1> 
 
 <h3 align="center"> Bem vindos ao meu perfil do GitHub </h3>
 <h3 align="center"> Welcome to my GitHub perfil 👩🏻‍💻</h3>
