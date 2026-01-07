@@ -1,4 +1,4 @@
-<h1 align="center"> Olá!! Meu nome é Marcos 👋</h1> 
+<img width="740" height="554" alt="image" src="https://github.com/user-attachments/assets/5ba4728b-9108-484e-ae9c-148c6f699607" /><h1 align="center"> Olá!! Meu nome é Marcos 👋</h1> 
 
 <h3 align="center"> Bem vindos ao meu perfil do GitHub </h3>
 <h3 align="center"> Welcome to my GitHub perfil 👩🏻‍💻</h3>
@@ -7,6 +7,6 @@
 <p align="center"img src="https://darkside.blog.br/wp-content/uploads/2020/07/Psicopata-Americano-06-1024x672.jpg" width="400" height="330">
 
  <p align="center">
-    <img windth="470" src=https://www.in2code.de/fileadmin/_processed_/0/b/csm_code_javascript_49d002a67e.webp<p>
+    <img windth="470" src=https://images.unsplash.com/photo-1542831371-29b0f74f9713?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8fDB8fHww<p>
 
  <h3 align="center">E aqui é onde mostrarei os meus projetos 🙂</h3>
